@@ -1,0 +1,212 @@
+[
+  {
+    "": 0,
+    "Title": "Palo Alto",
+    "Note": "The heart of silicon valley where every garage here seems like to be conceived with somebody's dream of building a future Apple",
+    "URL": "https://www.google.com/maps/place/Palo+Alto/data=!4m2!3m1!1s0x808fb07b9dba1c39:0xe1ff55235f576cf",
+    "location": "{'lat': 37.4418834, 'lng': -122.1430195}"
+  },
+  {
+    "": 1,
+    "Title": "University of California, Los Angeles",
+    "Note": "First time i was taking the campus tour here, it became one of my dream schools",
+    "URL": "https://www.google.com/maps/place/University+of+California,+Los+Angeles/data=!4m2!3m1!1s0x80c2bc85f05c0f65:0x25a993585c134837",
+    "location": "{'lat': 34.068921, 'lng': -118.4451811}"
+  },
+  {
+    "": 2,
+    "Title": "OUE Skyspace LA",
+    "Note": "The tacky place people go to and put the skyline picture on their tinder profile",
+    "URL": "https://www.google.com/maps/place/OUE+Skyspace+LA/data=!4m2!3m1!1s0x80c2c7b31522c94b:0x320383c89fde4dd9",
+    "location": "{'lat': 34.0511063, 'lng': -118.2543871}"
+  },
+  {
+    "": 3,
+    "Title": "BCD Tofu House",
+    "Note": "remember i was wandering along in the night at Ktown, because I had an argument with my ex",
+    "URL": "https://www.google.com/maps/place/BCD+Tofu+House/data=!4m2!3m1!1s0x80c2b8831c5ab3a1:0xe81dfbb2ef41329a",
+    "location": "{'lat': 36.778261, 'lng': -119.4179324}"
+  },
+  {
+    "": 4,
+    "Title": "Little Tokyo Market Place",
+    "Note": "it was always interesting because little tokyo is not so American not so japanese and it's near the skid row where all of the drug addicts and homeless people are.. Showing LA is such a bubble, a city for the broke and the super rich",
+    "URL": "https://www.google.com/maps/place/Little+Tokyo+Market+Place/data=!4m2!3m1!1s0x80c2c639bdb42031:0x3b391246fa503913",
+    "location": "{'lat': 34.0448212, 'lng': -118.2388758}"
+  },
+  {
+    "": 5,
+    "Title": "Skid Row",
+    "Note": "The infamous neighbour of LA that I did not dare to go",
+    "URL": "https://www.google.com/maps/place/Skid+Row/data=!4m2!3m1!1s0x80c2c636190c5c5d:0xc1ffe1113f3e4030",
+    "location": "{'lat': 34.044205, 'lng': -118.2439226}"
+  },
+  {
+    "": 6,
+    "Title": "Griffith Observatory",
+    "Note": "Been to this place with two of my exes in different period of time in my life because obviously it's so romantic and i had a thing with this observatory",
+    "URL": "https://www.google.com/maps/place/Griffith+Observatory/data=!4m2!3m1!1s0x80c2bf61e9d408cb:0x73ff07b1c2d6dadc",
+    "location": "{'lat': 34.1184341, 'lng': -118.3003935}"
+  },
+  {
+    "": 7,
+    "Title": "The Last Bookstore",
+    "Note": "My favorite bookstore in LA",
+    "URL": "https://www.google.com/maps/place/The+Last+Bookstore/data=!4m2!3m1!1s0x80c2c64a227f82ed:0x8591a1380838a935",
+    "location": "{'lat': 34.0477133, 'lng': -118.249828}"
+  },
+  {
+    "": 8,
+    "Title": "Venice Beach",
+    "Note": "I've been to LA so many times but still never been here, it's a regret since I love the lana del rey song",
+    "URL": "https://www.google.com/maps/place/Venice+Beach/data=!4m2!3m1!1s0x80c2baa4ba9b5de7:0x605f44ea42d6b278",
+    "location": "{'lat': 33.9850469, 'lng': -118.4694832}"
+  },
+  {
+    "": 9,
+    "Title": "Santa Monica Pier",
+    "Note": "I was impressed by the cute dust bins here when I was the first time in LA",
+    "URL": "https://www.google.com/maps/place/Santa+Monica+Pier/data=!4m2!3m1!1s0x80c2a4d74d5ea79b:0xcd9a111aced18f4d",
+    "location": "{'lat': 34.0082821, 'lng': -118.4987585}"
+  },
+  {
+    "": 10,
+    "Title": "Los Angeles County Museum of Art",
+    "Note": "been to a nice exhibtion here with my one of my ex",
+    "URL": "https://www.google.com/maps/place/Los+Angeles+County+Museum+of+Art/data=!4m2!3m1!1s0x80c2b93cca9c7ab1:0x9b191d3aac3e37",
+    "location": "{'lat': 34.0639323, 'lng': -118.3592293}"
+  },
+  {
+    "": 11,
+    "Title": "The Getty",
+    "Note": "My favorite museum in LA",
+    "URL": "https://www.google.com/maps/place/The+Getty/data=!4m2!3m1!1s0x80c2bcd74227366f:0xda784a5a15aaaa25",
+    "location": "{'lat': 34.07803579999999, 'lng': -118.4740954}"
+  },
+  {
+    "": 12,
+    "Title": "Torrey Pines State Natural Reserve",
+    "Note": "One of my fav hiking places to go to",
+    "URL": "https://www.google.com/maps/place/Torrey+Pines+State+Natural+Reserve/data=!4m2!3m1!1s0x80dc0667ac55946b:0x87b6a72540002fb1",
+    "location": "{'lat': 32.9268576, 'lng': -117.2593912}"
+  },
+  {
+    "": 14,
+    "Title": "Black's Beach",
+    "Note": "the nude beach down our campus, sometimes I get scared by the creepy naked guys",
+    "URL": "https://www.google.com/maps/place/Black's+Beach/data=!4m2!3m1!1s0x80dc068fc8820f2b:0xcea1029b3b92dc8f",
+    "location": "{'lat': 32.8906575, 'lng': -117.2534656}"
+  },
+  {
+    "": 15,
+    "Title": "Balboa Park",
+    "Note": "the only nice gallery here in culturally-dead San Diego",
+    "URL": "https://www.google.com/maps/place/Balboa+Park/data=!4m2!3m1!1s0x80d95496fa70cb03:0xedf30b3cb015f6c4",
+    "location": "{'lat': 32.7341479, 'lng': -117.144553}"
+  },
+  {
+    "": 16,
+    "Title": "Moniker Coffee Co",
+    "Note": "another favorite coffee shop",
+    "URL": "https://www.google.com/maps/place/Moniker+Coffee+Co/data=!4m2!3m1!1s0x80deab030cd844e9:0x5fbedb28e37eaede",
+    "location": "{'lat': 32.7410261, 'lng': -117.2113548}"
+  },
+  {
+    "": 17,
+    "Title": "Coronado Beach",
+    "Note": "First time I was on riding on a ducati, 90kmh, with a motorbike gangster from our school",
+    "URL": "https://www.google.com/maps/place/Coronado+Beach/data=!4m2!3m1!1s0x80d9534c6ee61977:0x257c4c414bafff30",
+    "location": "{'lat': 32.6847742, 'lng': -117.1878115}"
+  },
+  {
+    "": 18,
+    "Title": "Sunset Cliffs Natural Park",
+    "Note": "Watched sunset with friends on the sunset cliffs",
+    "URL": "https://www.google.com/maps/place/Sunset+Cliffs+Natural+Park/data=!4m2!3m1!1s0x80deabc34865ae03:0xea49f2d4b5e09115",
+    "location": "{'lat': 32.718002, 'lng': -117.2548558}"
+  },
+  {
+    "": 19,
+    "Title": "Chula Vista",
+    "Note": "Nearest place to Mexico I’ve been to",
+    "URL": "https://www.google.com/maps/place/Chula+Vista/data=!4m2!3m1!1s0x80d94e4565c3aacf:0x46ccb8734b8f2bd3",
+    "location": "{'lat': 32.6400541, 'lng': -117.0841955}"
+  },
+  {
+    "": 20,
+    "Title": "East Jesus",
+    "Note": " The last free place\" with no government control, no power or water supply, bunch of artist left their artwork here made with trash, u can take or destroy any artwork if you want",
+    "URL": "https://www.google.com/maps/place/East+Jesus/data=!4m2!3m1!1s0x80d0b2024782ca49:0x1056c9c09a0b7877",
+    "location": "{'lat': 33.2630495, 'lng': -115.4660136}"
+  },
+  {
+    "": 21,
+    "Title": "Salvation Mountain",
+    "Note": "The most hipster place I've been to, on a spontaneous road trip with a guy I matched on Tinder, best risk of my life",
+    "URL": "https://www.google.com/maps/place/Salvation+Mountain/data=!4m2!3m1!1s0x80d0b207f1dda1d3:0x4ec3972c15caffda",
+    "location": "{'lat': 33.2541993, 'lng': -115.4726435}"
+  },
+  {
+    "": 22,
+    "Title": "San Diego State University",
+    "Note": "I reunioned with one of friends from Beijing here in SD, because she went to college here",
+    "URL": "https://www.google.com/maps/place/San+Diego+State+University/data=!4m2!3m1!1s0x80d95686a6a04a21:0xc39f2ac6bf82f916",
+    "location": "{'lat': 32.7774047, 'lng': -117.0714068}"
+  },
+  {
+    "": 23,
+    "Title": "Doyle Community Park",
+    "Note": "My community park where I go for a jog and skate every now and then in SD",
+    "URL": "https://www.google.com/maps/place/Doyle+Community+Park/data=!4m2!3m1!1s0x80dc00d597102501:0x62b97dc4e0531c6a",
+    "location": "{'lat': 32.864577, 'lng': -117.2194635}"
+  },
+  {
+    "": 24,
+    "Title": "Costa Verde Village",
+    "Note": "The place i've called home for a period of time",
+    "URL": "https://www.google.com/maps/place/Costa+Verde+Village/data=!4m2!3m1!1s0x80dc072aee12ec53:0x8512794c97b65c28",
+    "location": "{'lat': 32.8703751, 'lng': -117.2168167}"
+  },
+  {
+    "": 25,
+    "Title": "Pacific Beach",
+    "Note": "the last time i saw my taiwanese friend Bungee, she gave me a card and letter with her hand-drawing of my name",
+    "URL": "https://www.google.com/maps/place/Pacific+Beach/data=!4m2!3m1!1s0x80dc01c762be19e5:0xa7bdb8ca881be76c",
+    "location": "{'lat': 32.8024577, 'lng': -117.2355851}"
+  },
+  {
+    "": 26,
+    "Title": "Burn All Books",
+    "Note": "Another favorite bookstore",
+    "URL": "https://www.google.com/maps/place/Burn+All+Books/data=!4m2!3m1!1s0x80d955e413bcb8bb:0xad3220e354e673c0",
+    "location": "{'lat': 32.7471654, 'lng': -117.1297383}"
+  },
+  {
+    "": 27,
+    "Title": "Verbatim Books",
+    "Note": "one of my favorite second hand bookstore in SD",
+    "URL": "https://www.google.com/maps/place/Verbatim+Books/data=!4m2!3m1!1s0x80d954f4372a378b:0xabf42c1e465fd15e",
+    "location": "{'lat': 32.7472107, 'lng': -117.1299322}"
+  },
+  {
+    "": 28,
+    "Title": "Miramar",
+    "Note": "The show of American airforce takes place here",
+    "URL": "https://www.google.com/maps/place/Miramar/data=!4m2!3m1!1s0x80dbff46c8508605:0x5ed364ba62fed232",
+    "location": "{'lat': 32.8767389, 'lng': -117.1382404}"
+  },
+  {
+    "": 29,
+    "Title": "Bird Rock Coffee Roasters - La Jolla",
+    "Note": "my favorite coffee roaster in san diego",
+    "URL": "https://www.google.com/maps/place/Bird+Rock+Coffee+Roasters+-+La+Jolla/data=!4m2!3m1!1s0x80dc022acd76f0e1:0xe5c4e3eaefe0e942",
+    "location": "{'lat': 32.8144743, 'lng': -117.2697587}"
+  },
+  {
+    "": 30,
+    "Title": "La Jolla Cove",
+    "Note": "my break down place for the night walks on the seaside",
+    "URL": "https://www.google.com/maps/place/La+Jolla+Cove/data=!4m2!3m1!1s0x80dc03fea876e5eb:0x90ff653c28a7c617",
+    "location": "{'lat': 32.8503895, 'lng': -117.2729435}"
+  }
+]
